@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/1115471544_1918476132_1213178204.mp4'
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/600397447_1213067847_1213178204.mp4'
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/600397447_3585423255_3257265909.mp4'
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/600397447_876308574_265699020.mp4'
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/600397447_3227919048_2202371568.mp4'
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/600397447_3226706229_3280289373.mp4'
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/600397447_3774756082_3727615749.mp4'
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/600397447_2429779460_3278837926.mp4'
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/600397447_3219807657_2100309654.mp4'
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/600397447_3373003283_4029721552.mp4'
+file 'file:/Users/rajathdb/Emo-TalkGen/media/videos/animation/480p15/partial_movie_files/EmoTalkGenStep1to7/600397447_3494816192_3613922503.mp4'

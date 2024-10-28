@@ -32,7 +32,7 @@ This study seeks not only to understand the baseline performance of the dual-dec
 
 [x] Implementation
 
-[] Experiments
+[x] Experiments
 
-[] Readings
+[x] Readings
 
